@@ -1,0 +1,13 @@
+item_id,name,name_zh,category,price,available
+101,Water,水,water,40,1
+102,Hot Green Tea,熱綠茶,tea,70,1
+103,Hot Black Tea,熱紅茶,tea,70,1
+104,Coffee,咖啡,coffee,70,1
+105,Iced Milk Tea,冰奶茶,milk_tea,90,1
+106,Plum Green Tea,梅子綠茶,tea,80,1
+107,Winter Melon Tea,冬瓜茶,tea,80,1
+201,Chocolate Banana Cake,巧克力香蕉蛋糕,dessert,90,1
+202,Strawberry Cake,草莓蛋糕,dessert,85,1
+203,Apple Pie,蘋果派,dessert,80,1
+301,Chicken Cheese Sandwich,雞肉起司三明治,sandwich,75,1
+302,Vegetarian Sandwich,素食三明治,sandwich,70,1

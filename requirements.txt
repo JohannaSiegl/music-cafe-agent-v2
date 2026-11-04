@@ -1,0 +1,4 @@
+gradio>=6.0
+openai
+python-dotenv
+numpy

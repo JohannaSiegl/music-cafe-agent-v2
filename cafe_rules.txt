@@ -1,0 +1,67 @@
+# Vinyl Music Café - Café Rules and Policies
+# Class practice data. These rules are made up for a class project; they are not the rules of a real café.
+# Opening hours, prices, payment, address, phone, delivery, parking, Wi-Fi and the queue for song requests are in the café database, not in this file.
+
+## About the café and seating
+Vinyl Music Café is a small café with coffee, tea, desserts, sandwiches, vinyl music and occasional live performances.
+Our guests are mostly students, music lovers and café visitors, and everyone is welcome.
+The café has 12 tables. Each table has 2 or 4 seats.
+Walk-in guests are welcome whenever seats are free. A reservation is not required.
+
+## Table reservations
+Tables can be reserved for 1 to 4 people. A reservation is for one table.
+To reserve a table, the guest gives the day, the time of arrival, the number of people, a name and a phone number.
+Tables can be reserved up to 14 days in advance, and at least 2 hours before the time of arrival.
+The time of arrival must be within our opening hours.
+A reservation lasts 2 hours. A reserved table is held for 15 minutes after the booked time.
+Groups of more than 4 people cannot reserve a table directly. They must contact the staff.
+A reservation counts as confirmed only after the guest has agreed to the booking details and the booking has been saved in our system. The guest then receives a reservation number, which is needed to cancel.
+To change a reservation, the guest cancels it and makes a new one.
+
+## Cancellations and no-shows
+Guests can cancel a reservation free of charge up to 3 hours before the time of arrival.
+To cancel, the guest needs the reservation number and the phone number of the booking.
+A cancellation less than 3 hours before the time of arrival must be made with the staff.
+If a reserved table is not used and the guest did not cancel, a no-show fee of NT$150 applies.
+
+## Tables, QR codes and free seats
+Every table has a QR code. Guests scan it when they sit down, and the table is marked as occupied in our system.
+The staff mark the table as free again after the guests have left.
+The number of free tables and seats can be checked at any time.
+
+## Friday live music
+Live music is played every Friday from 19:00 to 21:30.
+Five performers take turns: Lin Yu-Chen (acoustic guitar and vocals), Chen Wei-Ting (piano), Huang Mei-Ling (jazz vocals), Wu Jia-Hao (violin) and Zhang Xiao-Yun (folk guitar).
+The order of the performers changes from week to week. Who plays when is shown on the poster and the schedule posted in the café.
+Each event has limited seating capacity. Guests should check availability before visiting.
+Guests may take photos, but flash photography is not allowed during live performances.
+
+## Live music fee
+Guests who are in the café during the live music on Fridays, from 19:00 to 21:30, pay a live music fee of NT$100 per person.
+If the order of a table is worth at least NT$500, the live music fee is waived for that table.
+If the fee applies, it is added to the bill at the end of the visit.
+
+## Music in the café
+Playing loud music of your own, for example from a phone or a speaker, at the table is not allowed.
+Instead, guests can make a song request at any time. The staff will find the matching record and play it at the next possible time.
+
+## House rules
+Outside food and drinks are not allowed.
+Smoking is prohibited inside the café.
+Guests are expected to respect other customers and to keep the noise at a reasonable level.
+Pets are not allowed, except certified assistance animals.
+
+## Food and allergens
+Our kitchen uses milk, eggs, wheat, soy and nuts every day.
+We cannot promise that any item is completely free of these ingredients.
+Guests with a serious allergy should tell the staff before ordering.
+The vegetarian sandwich contains no meat.
+
+## Wrong or cold orders and complaints
+If an item is wrong or arrives cold, please tell the staff and we will make it again free of charge.
+For other complaints, please speak to the staff or call the café.
+
+## Lost and found
+Items left in the café are kept for 30 days.
+Wallets, phones and documents are kept in a safe place and need photo ID to collect.
+After 30 days, unclaimed items are given to a local charity.
