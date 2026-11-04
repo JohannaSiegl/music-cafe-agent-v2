@@ -127,7 +127,7 @@ music-cafe-agent/
 1. Download the project:
 
    ```bash
-   git clone https://github.com/ACCOUNT/REPO.git
+   git clone https://github.com/JohannaSiegl/music-cafe-agent-v2.git
    cd YOUR-REPO
    ```
 
