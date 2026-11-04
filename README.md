@@ -128,7 +128,7 @@ music-cafe-agent/
 
    ```bash
    git clone https://github.com/JohannaSiegl/music-cafe-agent-v2.git
-   cd YOUR-REPO
+   cd music-cafe-agent-v2
    ```
 
 2. Install the packages (Python 3.10 or newer):
